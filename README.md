@@ -10,7 +10,7 @@ This documentation discusses a lot of the design principles behind the STL, and 
 
 Other information related to the design of the STL.
 
-- [Alexander Stepanov: STL and Its Design Principles] (https://www.youtube.com/watch?v=COuHLky7E2Q)
+- [Alexander Stepanov: STL and Its Design Principles](https://www.youtube.com/watch?v=COuHLky7E2Q)
 - [An Interview with A. Stepanov](http://www.stlport.org/resources/StepanovUSA.html)
 - [Effecient Programming With Components](https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD)
 - [Stepanov Papers](http://stepanovpapers.com)
