@@ -1,6 +1,6 @@
 # sgi-stl-docs
 
-## [READ HERE](https://justinmeiners.github.io/sgi-stl-docs)
+## [READ HERE](https://justinmeiners.github.io/sgi-stl-docs/)
 
 Standard template library (STL) documentation from SGI. This is a mirror of the content that used to be on SGIs site. They recently removed it. Thanks to [Martin](http://www.martinbroadhurst.com/sgi-stl-documentation.html) for backing it up for all of us.
 
